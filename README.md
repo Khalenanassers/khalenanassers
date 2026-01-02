@@ -14,7 +14,7 @@ Each project/task follows a full analytics lifecycle, including:
 ## 🔧 Tech Stack
 - **Languages:** Python, R, SQL, DAX
 - **Tools:** Power BI, Tableau, Excel, SPSS
-- **Data:** Public datasets, synthetic data, and industry‑specifi (Wind & Alcoholic)
+- **Data:** Public datasets, synthetic data, and industry‑specific (Wind & Alcoholic)
 - Working daily with AI as a collaborative sidekick while continuously studying its underlying concepts and use cases
 
 More to come...
