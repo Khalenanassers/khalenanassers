@@ -1,4 +1,4 @@
-👋 Hi, I'm Khalena — Strategic and curious professional
+👋 Hi, I'm Khalena — A home chef and Amateur football player 
 
 I am a data strategist and insights chaser, adept at transforming complex information into actionable intelligence that drives business growth and operational excellence.  
 My work blends business understanding, statistical analysis, and intuitive executive data storytelling. 
@@ -9,7 +9,7 @@ Each project/task follows a full analytics lifecycle, including:
 - 📊 Exploratory and statistical analysis  
 - 📈 Dashboards and BI reporting  
 - 💡 Insight generation and strategic recommendations
-
+- 🌐 Process optimization
 
 ## 🔧 Tech Stack
 - **Languages:** Python, R, SQL, DAX
