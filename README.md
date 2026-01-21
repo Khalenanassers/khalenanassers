@@ -19,4 +19,4 @@ Each project/task follows a full analytics lifecycle, including:
 - **Data:** Public datasets, synthetic data, and industry‑specific (Wind & Alcoholic)
 - Working daily with AI as a collaborative sidekick while continuously studying its underlying concepts and use cases
 
-⏩Currently working on: Marketing trend analysis in Python and Data Analyst Assistant with Google AI Studio
+⏩Currently working on: Marketing trend analysis in Python 
