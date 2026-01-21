@@ -2,7 +2,7 @@
 
 The rest of the time I am a strategist and insights chaser, adept at transforming complex information into actionable intelligence that drives business growth and operational excellence.  
 
-Thi is my personal portfolio, some short examples how I transform data into business insights. 
+This is my personal portfolio, some short examples how I transform data into business insights. 
 
 Each project/task follows a full analytics lifecycle, including:
 - 🔍 Business problem framing  
