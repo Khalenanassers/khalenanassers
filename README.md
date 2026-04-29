@@ -11,7 +11,7 @@ Each project/task follows a full analytics lifecycle, including:
 - 🧮 Modeling and evaluation
 - 📈 Dashboards and BI reporting  
 - 💡 Insight generation and strategic recommendations
-- 🌐 Process optimization
+- 🌐 Process optimization *if needed)
 
 ## 🔧 Tech Stack
 - **Languages:** Python, R, SQL, DAX, VBA
