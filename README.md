@@ -32,5 +32,5 @@ Hamburg · MSc BI & Data Science, ISM 2026 · Originally from Venezuela
 ---
 
 ## Stack
-Python · R · SQL · Power BI · Excel ·AI (Google AI studio, Lovable & Claude Code)
+Python · R · SQL · Power BI · Excel ·AI (Google AI studio, Lovable, Claude Code & more)
 
