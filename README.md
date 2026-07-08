@@ -11,15 +11,9 @@ Hamburg · MSc BI & Data Science, ISM 2026 · Originally from Venezuela
 **LATAM Lab** — Data and strategy case studies on Latin American markets. Real problems, real methods, business report included. Built for founders and analysts in LATAM who want applied work without the enterprise wrapper.
 [→ See the repo](https://github.com/Khalenanassers/LATAM-LAB)
 
-**Building & learning about Multi Agent systems* 
-
-**Metal Minds** *(Hackathon, May 2026)* — Commodity decision intelligence for LME metals. K-Means regime classification, FinBERT sentiment across 29K articles, ARIMA/GARCH forecasting. Built solo in 48h.
+**Building & learning about Multi Agent systems* - to help decision making using AI
 
 **Chispa** *(Gemma 4 Good Hackathon, May 2026)* — AI literacy game for Spanish-speaking adults. Track: Digital Equity.
-
-**Fette Compacting** *(MSc Field Project)* — Data and pattern exploration for industrial machinery. Random Forest, OLS, hypothesis testing.
-
-**Orbit Wars** *(Kaggle)* — Building an AI agent hierarchy to compete. Because why not try.
 
 ---
 
