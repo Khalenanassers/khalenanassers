@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khalena 
 
-I translate between AI, data and business decisions 
+I translate between data and business decisions, and working on understating AI  for intelligence work
 
 Hamburg · MSc BI & Data Science, ISM 2026 · Originally from Venezuela
 
